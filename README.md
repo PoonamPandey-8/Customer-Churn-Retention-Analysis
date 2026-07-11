@@ -192,8 +192,7 @@ This repository includes:
 * `cleaned_telco_churn.csv` — cleaned dataset used for analysis
 * `telco_churn_cleaning.ipynb` — Python notebook for data cleaning and feature creation
 * `churn_analysis_queries.sql` — SQL queries used to analyze churn patterns
-* Power BI dashboard screenshots
-* Power BI report file if file size allows
+* `churn_visualization.pbix` - Power BI report file
 
 ## Conclusion
 
