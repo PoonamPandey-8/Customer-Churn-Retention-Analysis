@@ -16,11 +16,15 @@ The project follows a complete data analysis workflow:
 
 ## Business Problem
 
-The telecom company wants to understand which customers are leaving and what customer characteristics are linked with higher churn.
+Customer churn is an important business problem because losing customers can reduce revenue and slow business growth.
+
+In this project, I analyzed a telecom customer churn dataset to understand which customer groups are more likely to leave and what factors are linked with higher churn.
 
 The main business question is:
 
-Which customer groups are more likely to churn, and where should the company focus its retention efforts?
+**Which customer groups are more likely to churn, and where should the business focus its retention efforts?**
+
+## Tools Used
 
 * Python
 * Pandas
