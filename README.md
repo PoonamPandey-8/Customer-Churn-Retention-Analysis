@@ -4,7 +4,7 @@ This project analyzes customer churn for a telecom company using Python, SQL, an
 
 ## Project Overview
 
-Customer churn is an important business problem because losing customers can reduce revenue and slow business growth. In this project, I used a telecom customer churn dataset from Kaggle to understand which customer groups are more likely to leave the company.
+This is an end-to-end customer churn analysis project using Python, SQL, and Power BI. The project focuses on cleaning the raw dataset, analyzing churn patterns, and building a Power BI dashboard to communicate the findings.
 
 The project follows a complete data analysis workflow:
 
